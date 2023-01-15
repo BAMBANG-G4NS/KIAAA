@@ -9,10 +9,10 @@
 <img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BAMBANG OFFICIAL" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/62895412691100"><img title="Author" src="https://img.shields.io/badge/Author-KIA OFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 <a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
 <a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
 <a href="https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
